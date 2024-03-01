@@ -1,3 +1,4 @@
+// this class and method created by Hasan and Huseyin :)
 public class Calculator {
     public static void main(String[] args) {
 
