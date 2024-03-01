@@ -1,4 +1,4 @@
-// this class and method created by Hasan and Huseyin :)
+// this class and method created by Khasan and Huseyin :)
 public class Calculator {
     public static void main(String[] args) {
 
